@@ -49,6 +49,8 @@ They are at the corner of every line of the map, and have no function
 ## **Screen recording**
 YouTube:  
 https://youtu.be/_PwGxo1uRZc  
+bilibili:  
+https://www.bilibili.com/video/BV1Tx4y1p7TN/?vd_source=3316a294ff0447231fc4381118693967  
 ## **Game screenshot**
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/gamePanle.png)  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/winPanle.png)  
