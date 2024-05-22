@@ -7,7 +7,7 @@ This is a flying chess game, is written with python , hope to bring you some fun
 ● The map is randomly generated, and here are the results of opening the game five times.  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/composition.png)  
 
-#--------------------------------------------------------------------------------------------------------------------------------  
+#-------------------------------------------------------------------------------------------------------------------------------  
 
 ● This is A two-player game that requires two players to play A and B respectively.  
 
@@ -16,47 +16,47 @@ This is a flying chess game, is written with python , hope to bring you some fun
 ### PlayerB ###
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/playerB_B.png)  
 
-#--------------------------------------------------------------------------------------------------------------------------------  
+#-------------------------------------------------------------------------------------------------------------------------------  
 
 ● After the game starts, please press the A key to roll the dice, the number of dice is 0 to 6 (0 to 6 random draw numbers, it is possible to draw 0, the random number is the number of steps that the player can walk this round)  
 
-#--------------------------------------------------------------------------------------------------------------------------------  
-
+#-------------------------------------------------------------------------------------------------------------------------------  
+### Special grids ###
 ● There are some special grids on the map, each with a different function:  
-### Switch Grid ###
+![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/composition_02.png)  
+#### Switch Grid ####
 Has the function of allowing player A to switch positions with player B  
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/exchangeGrid_E.png)  
-### BackUp Grid ###
+#### BackUp Grid ####
 Make the player go back a random number of steps (1~6)  
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/BackUpGrid_B.png)  
-### Cross Grid ###
+#### Cross Grid ####
 Let the player cross over to the next same grid  
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/crossGrid_C.png)  
-### Win Grid ###
+#### Win Grid ####
 The first player to reach this grid wins  
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/finalGrid_F.png)  
-### Common Grid ###
+#### Common Grid ####
 The most common grid, they do nothing  
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/normalGrid_N.png)  
-### Corner Grid ###
+#### Corner Grid ####
 They are at the corner of every line of the map, and have no function  
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/cornerGrid_C.png)  
 
-#--------------------------------------------------------------------------------------------------------------------------------  
-
-● Please pay attention to the prompt bar at the bottom of the screen, it will tell you whose turn is now, and the random number of steps forward or backward  
+#-------------------------------------------------------------------------------------------------------------------------------  
 ### Bottom tip area ###
+● Please pay attention to the prompt bar at the bottom of the screen, it will tell you whose turn is now, and the random number of steps forward or backward  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_A_A.png)  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_B.png)  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_C.png)  
 
-#--------------------------------------------------------------------------------------------------------------------------------  
+#-------------------------------------------------------------------------------------------------------------------------------  
 
 ## **Screen recording**
 The second game really reversed a lot of times O(∩_∩)O, so dramatic  
