@@ -47,7 +47,8 @@ They are at the corner of every line of the map, and have no function
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_B.png)  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_C.png)  
 ## **Screen recording**
-
+YouTube:  
+https://youtu.be/_PwGxo1uRZc  
 ## **Game screenshot**
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/gamePanle.png)  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/winPanle.png)  
