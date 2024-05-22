@@ -41,11 +41,16 @@ They are at the corner of every line of the map, and have no function
 
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/cornerGrid_C.png)  
 
+● Please pay attention to the prompt bar at the bottom of the screen, it will tell you whose turn is now, and the random number of steps forward or backward  
+### Bottom tip area ###
+![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_A.png)  
+![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_B.png)  
+![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/tips_C.png)  
 ## **Screen recording**
 
 ## **Game screenshot**
 
 ## **Tips**
-●If you want to download it to play, you need to download all the files in src (source code) and files (resource files)
+●If you want to download it to play, you need to download all the files in src (source code) and files (resource files)  
 ●The game still has some bugs, such as during A's turn, A steps on the switch grid, and after A and B switch positions, A lands on the cross grid, which causes the positions of A and B to be displayed incorrectly(This bug does not affect the continuation of the game)
 
