@@ -3,7 +3,6 @@ This is a flying chess game, is written with python , hope to bring you some fun
 
 ## **Game introduction and rules**
 #--------------------------------------------------------------------------------------------------------------------------------  
-
 ### Map ###
 ● The map is randomly generated, and here are the results of opening the game five times.  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_01_A.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_02_B.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_03_C.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_04_D.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_05_E.png)  
