@@ -4,7 +4,7 @@ This is a flying chess game, see the detailed rules below
 ## **Game introduction and rules**
 ● 这是一个双人游戏，需要两位玩家来分别扮演A与B。  
 
-<img scr=https://github.com/cobalt-sv/flying-chess-game/blob/main/img/playerA.png width="100">  
+![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/playerA.png)
 
 <img scr=https://github.com/cobalt-sv/flying-chess-game/blob/main/img/playerB.png width="100">  
 
