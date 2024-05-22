@@ -3,10 +3,12 @@ This is a flying chess game, is written with python , hope to bring you some fun
 
 ## **Game introduction and rules**
 #--------------------------------------------------------------------------------------------------------------------------------  
+
 ### Map ###
 ● The map is randomly generated, and here are the results of opening the game five times.  
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_01_A.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_02_B.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_03_C.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_04_D.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_05_E.png)  
 #--------------------------------------------------------------------------------------------------------------------------------  
+
 ● This is A two-player game that requires two players to play A and B respectively.  
 
 ### PlayerA ###
@@ -14,8 +16,10 @@ This is a flying chess game, is written with python , hope to bring you some fun
 ### PlayerB ###
 ![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/playerB_B.png)  
 #--------------------------------------------------------------------------------------------------------------------------------  
+
 ● After the game starts, please press the A key to roll the dice, the number of dice is 0 to 6 (0 to 6 random draw numbers, it is possible to draw 0, the random number is the number of steps that the player can walk this round)  
 #--------------------------------------------------------------------------------------------------------------------------------  
+
 ● There are some special grids on the map, each with a different function:  
 ### Switch Grid ###
 Has the function of allowing player A to switch positions with player B  
