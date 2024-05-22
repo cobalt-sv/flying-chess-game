@@ -2,6 +2,9 @@
 This is a flying chess game, see the detailed rules below
 
 ## **Game introduction and rules**
+● The map is randomly generated, and here are the results of opening the game five times
+![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_01.png)![image](https://github.com/cobalt-sv/flying-chess-game/blob/main/img/screenshot_02.png)  
+
 ● 这是一个双人游戏，需要两位玩家来分别扮演A与B。  
 
 ### PlayerA ###
